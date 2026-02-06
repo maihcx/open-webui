@@ -132,7 +132,7 @@ async def get_headers_and_cookies(
         **(
             {
                 "HTTP-Referer": "https://openwebui.com/",
-                "X-Title": "Open WebUI",
+                "X-Title": "Scorpio AI",
             }
             if "openrouter.ai" in url
             else {}
